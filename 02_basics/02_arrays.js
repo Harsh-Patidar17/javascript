@@ -21,3 +21,13 @@ let score3=100
 
 console.log(Array.of(score1,score2,score3));
 
+const obj1={
+    1:"damn",
+    2:"okay"
+}
+const obj2={
+    3:"damn",
+    3:"okay"
+}
+const obj3=Object.assign({},obj1,obj2)
+console.log(obj3)
