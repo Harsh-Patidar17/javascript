@@ -26,4 +26,4 @@ const myn2=myArr2.splice(1,3)//also fucks the og array
 console.log(myArr2)
 console.log(myn2);
 
- 
+
